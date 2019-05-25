@@ -1,0 +1,96 @@
+locanda veneta --- locanda veneta --- 0 
+nava --- cava --- 1 
+diva --- dive --- 1 
+campanile --- campanile --- 0 
+campton place --- campton place --- 0 
+carmine's --- carmine's --- 0 
+le colonial --- le colonial --- 0 
+plumpjack cafe --- plumpjack cafe --- 0 
+la grotta --- la grotta --- 0 
+morton's --- morton's --- 0 
+delectables --- delectables --- 0 
+citrus --- citrus --- 0 
+les celebrites --- les celebrites --- 0 
+caffe roma --- cafe roma --- 1 
+fleur de lys --- fleur de lys --- 0 
+rex il ristorante --- rex il ristorante --- 0 
+san domenico --- san domenico --- 0 
+hard rock cafe --- hard rock cafe --- 0 
+smith & wollensky --- smith & wollensky --- 0 
+toulouse --- toulouse --- 0 
+chanterelle --- chanterelle --- 0 
+aureole --- aureole --- 0 
+uncle nick's --- uncle nick's --- 0 
+sign of the dove --- sign of the dove --- 0 
+mi cocina --- mi cocina --- 0 
+alain rondelli --- alain rondelli --- 0 
+la folie --- la folie --- 0 
+cafe des artistes --- cafe des artistes --- 0 
+oceana --- oceana --- 0 
+abruzzi --- abruzzi --- 0 
+gramercy tavern --- gramercy tavern --- 0 
+steak house  the --- steakhouse  the --- 1 
+brasserie le coze --- brasserie le coze --- 0 
+daniel --- daniel --- 0 
+granita --- granita --- 0 
+chinois on main --- chinois on main --- 0 
+lutece --- lutece --- 0 
+march --- march --- 0 
+tavern on the green --- tavern on the green --- 0 
+rose pistola --- rose pistola --- 0 
+la cote basque --- la cote basque --- 0 
+matsuhisa --- matsuhisa --- 0 
+teresa's --- teresa's --- 0 
+fringale --- fringale --- 0 
+patina --- patina --- 0 
+hawthorne lane --- hawthorne lane --- 0 
+pisces --- pisces --- 0 
+masa's --- masa's --- 0 
+boulevard --- boulevard --- 0 
+chez michel --- chez michel --- 0 
+rainbow room --- rainbow room --- 0 
+seryna --- seryna --- 0 
+manhattan ocean club --- manhattan ocean club --- 0 
+second avenue deli --- second avenue deli --- 0 
+buckhead diner --- buckhead diner --- 0 
+le bernardin --- le bernardin --- 0 
+bertolini's --- bertolini's --- 0 
+cafe bizou --- cafe bizou --- 0 
+khan toke thai house --- khan toke thai house --- 0 
+palace court --- palace court --- 0 
+mary mac's tea room --- mary mac's tea room --- 0 
+21 club --- 21 club --- 0 
+l'orangerie --- l'orangerie --- 0 
+carnegie deli --- carnegie deli --- 0 
+georgia grille --- georgia grille --- 0 
+river cafe --- river cafe --- 0 
+pinot bistro --- pinot bistro --- 0 
+valentino --- valentino --- 0 
+second street grill --- second street grille --- 1 
+veni vidi vici --- veni vidi vici --- 0 
+dawat --- dawat --- 0 
+island spice --- island spice --- 0 
+arnie morton's of chicago --- arnie morton's of chicago --- 0 
+cafe claude --- cafe claude --- 0 
+cafe lalo --- cafe lalo --- 0 
+felidia --- felidia --- 0 
+chin's --- chin's --- 0 
+picholine --- picholine --- 0 
+montrachet --- montrachet --- 0 
+union square cafe --- union square cafe --- 0 
+aqua --- aqua --- 0 
+bacchanalia --- bacchanalia --- 0 
+jo jo --- jo jo --- 0 
+indigo coastal grill --- indigo coastal grill --- 0 
+mesa grill --- mesa grill --- 0 
+aquavit --- aquavit --- 0 
+petrossian --- petrossian --- 0 
+postrio --- postrio --- 0 
+gotham bar & grill --- gotham bar & grill --- 0 
+heera of india --- heera of india --- 0 
+la caravelle --- la caravelle --- 0 
+nikolai's roof --- nikolai's roof --- 0 
+remi --- remi --- 0 
+c3 --- ct --- 1 
+march --- match --- 1 
+felix --- fenix --- 1 
