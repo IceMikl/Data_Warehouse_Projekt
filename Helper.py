@@ -1,7 +1,9 @@
 import EditDistance
 
+# class have methods, which are used in other classes
 
 
+# read file and returns result as array of strings
 def readFile(_FileName: str):
     resultArray = []
     with open(_FileName, "r") as inputFile:
@@ -12,6 +14,7 @@ def readFile(_FileName: str):
     return resultArray
 
 
+# devides array in blocks, last block can be bigger than others
 def cutArrayInBlocks(_ArrayOfWords: [str], _NumberOfBlocks):
     resultList = []
     blockLength = len(_ArrayOfWords) // _NumberOfBlocks
@@ -32,7 +35,9 @@ def createMatrixWithEditDistances(_ArrayOfWords: [str]):
     return resultMatrix
 
 
-
+# goes through the matrix, returns pairs if edit distance is smaller or equal than threshold value
+# result will be written in output file
+# if rewrite is true, than rewrite file before output
 def analyseMatrixAndCreateOutput(_MatrixWithEditDistances: [[int]], _ArrayOfRestaurantNames: [str], _OutputFile: str,
                                  _ThresholdValue: int, rewrite: bool):
     if(rewrite):
@@ -57,6 +62,7 @@ def analyseMatrixAndCreateOutput(_MatrixWithEditDistances: [[int]], _ArrayOfRest
             outputFile.close()
 
 
+# find word pairs with edit distance value smaller of equal threshold value
 def analyseMatrix(_MatrixWithEditDistances, _ArrayOfRestaurantNames, _ThresholdValue):
     resultList = []
     for i in range(0, len(_MatrixWithEditDistances)):
@@ -70,7 +76,7 @@ def analyseMatrix(_MatrixWithEditDistances, _ArrayOfRestaurantNames, _ThresholdV
     return resultList
 
 
-#for Exercise 4
+# reads file and refactor input strings
 def readFileAndRefactorInput(_FileName: str):
     resultArray = []
     with open(_FileName, "r") as inputFile:
@@ -99,6 +105,7 @@ def refactorLine(_Word: str):
     return _Word
 
 
+# cleans file
 def cleanFile(_PathToFile: str):
     with open(_PathToFile, "w+") as outputFile:
         outputFile.write("")

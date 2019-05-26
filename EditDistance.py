@@ -1,4 +1,7 @@
 
+# class have method(s) for calculation edit distance
+
+
 def levenstein(word1, word2):
     rows = len(word1) + 1
     cols = len(word2) + 1

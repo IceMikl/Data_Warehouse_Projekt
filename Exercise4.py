@@ -38,7 +38,7 @@ def execute(_FilePath):
             minLength = len(sortedBlocksByStringLength[key][0])
             maxLength = len(sortedBlocksByStringLength[key][-1])
 
-            windowLength = 1 # it is Schwellenwert von Punkt 2
+            windowLength = 1 # it is threshold value from exercise 2
             for i in range(minLength, maxLength-windowLength+1):
                 counter += 1
                 words = getWordsWithLength(sortedBlocksByStringLength[key], i, windowLength)

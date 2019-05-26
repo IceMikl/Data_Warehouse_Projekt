@@ -10,4 +10,4 @@ def execute(_FilePath):
 
     matrixWithEditDistances = Helper.createMatrixWithEditDistances(arrayOfRestaurantNames)
 
-    Helper.analyseMatrixAndCreateOutput(matrixWithEditDistances, arrayOfRestaurantNames, "output.txt", 1, rewrite = True)
+    Helper.analyseMatrixAndCreateOutput(matrixWithEditDistances, arrayOfRestaurantNames, "outputExercise2.txt", 1, rewrite = True)
